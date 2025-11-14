@@ -1,0 +1,22 @@
+{
+  "name": "brick-breaker",
+  "version": "0.1.0",
+  "description": "A web-based brick breaker game",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "echo 'Build script to be implemented'",
+    "dev": "echo 'Dev server to be implemented'",
+    "serve": "echo 'Serve script to be implemented'",
+    "lint": "echo 'Linter to be implemented'",
+    "format": "echo 'Formatter to be implemented'"
+  },
+  "keywords": [
+    "brick-breaker",
+    "game",
+    "web"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
